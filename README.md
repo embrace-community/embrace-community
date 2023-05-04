@@ -1,5 +1,3 @@
-![embrace community](https://lets.embrace.community/logos/embrace-earth-web.png)
-
 **How can we best express the values of community in the new era of the web?**
 
 Today social media platforms offer a distorted expression of community that is more focused on revenue than being aligned with the true values of community. Embrace is looking to change this.
